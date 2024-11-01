@@ -38,4 +38,5 @@ For those who seek and persevere.
 
 ## A meme
 
-![1612827607426-fa841c4b-fa0a-4275-9e8d-e9ca1d109e0b-image-1.png](https://learn.maricopa.edu/users/4461727/files/105533366/preview?verifier=XbiQrAY3HIe5E5F8LG8yO7tzG0MqKLIgMSNF0aSv)
+![A meme with a happy and sad dinosar. 'Everyone on my floor is coding' is above both images. Below the happy dinosaur 
+it says 'Software Engineers' and above the sad dinosaur it says 'Doctors'](https://i.imgur.com/Ml1jjNz.png)
